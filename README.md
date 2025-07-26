@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Performance-Analysis# ☕ Coffee Shop Sales Dashboard – Power BI Project
+# ☕ Coffee Shop Sales Dashboard – Power BI Project
 
 ## 📍 Project Summary
 
